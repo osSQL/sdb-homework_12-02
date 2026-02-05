@@ -46,6 +46,9 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 <img src = "img/tables.png" width = 100%>
 
 ```
+
+SQL запросы:
+
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'password'
 
 SELECT User FROM mysql.user;
