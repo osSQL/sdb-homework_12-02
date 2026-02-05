@@ -79,7 +79,7 @@ SHOW TABLES;
 customer         | customer_id
 ```
 
-<img src = "img/PK.png" width = 100%>
+<img src = "img/pk2.png" width = 100%>
 
 
 ## Дополнительные задания (со звёздочкой*)
